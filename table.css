@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    text-emphasis: bold;
+    font-size: 50px;
+    font-weight: 50px;
+    font-family: montserrat;
+}
+body{
+    background: url(bulb.jpg) no-repeat;
+    background-size: cover;
+}
+.content-table{
+    border-collapse: separate;
+    margin: 40px 0;
+    min-width: 500px;
+    height: 400px;
+    background-color:#2d545e ;
+    color: whitesmoke;
+    font-size: 2.0em;
+    border-spacing: 15px 15px;
+    text-emphasis: bold;
+    border-style: groove;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: montserrat;
+}
+.content-table thead tr {
+    text-align: center;
+    border-style: groove;
+}
+.content-table tr td {
+    text-emphasis: bold;
+    text-align: justify;
+    border-style: inherit;
+}

@@ -1,0 +1,42 @@
+
+
+body{
+    background-color: #e1b382;
+    box-shadow: #c89666;
+}
+h1{
+ font-family: Arial, Helvetica, sans-serif;   
+ font-size:50px;
+ 
+ text-emphasis: bold;
+ text-align: center;
+}
+h2{
+   
+    font-family: Arial, Helvetica, sans-serif;
+    text-emphasis: bold;
+    text-align: left;
+    font-size: 44px;
+    font-weight: 44px;
+}
+.navigation{
+    width: 250px;
+    margin-left: 30px;
+    margin-top: 50px;
+    list-style-type: disc;
+}
+h3{   
+    font-size: 44px;
+    font-weight: 44px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-emphasis: bold;
+    text-align: left;
+}
+ul li {
+    font-size: 25px;
+    font-weight: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-emphasis: none;
+    text-align: left;
+}
+

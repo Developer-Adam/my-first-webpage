@@ -1,0 +1,46 @@
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+
+}
+body{
+    background: url(bulb.jpg) no-repeat;
+background-size: cover;
+}
+h1{ 
+    font-family: montserrat;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 60px;
+}
+ul li {
+    font-size: 50px;
+    font-weight: 50px;
+    font-family: montserrat;
+    text-emphasis: none;
+    text-align: center;
+    list-style-type: none;
+}
+
+
+

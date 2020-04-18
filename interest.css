@@ -1,0 +1,20 @@
+h1{
+    font-size: 60px;
+    font-weight: 60px;
+    text-align: center;
+   text-emphasis: none;
+}
+body{
+    background: url(pc.jpg) no-repeat;
+    background-size: cover; 
+}
+dt{
+    font-weight:44px;
+    font-size: 44px;
+    text-emphasis: bold;
+}
+dd{
+    font-size: 35px;
+    font-weight: 35px;
+}
+
